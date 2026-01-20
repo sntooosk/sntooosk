@@ -1,5 +1,3 @@
-## **Juliano
-
 🇧🇷 Português
 
 Atuação no projeto Electrolux LATAM, realizando testes manuais e automatizados. Apoio na escrita, execução e manutenção de cenários de teste em Gherkin, além de testes funcionais tradicionais. Responsável pelo registro de evidências, identificação e reporte de não conformidades, acompanhamento de bugs e organização da documentação de testes. Contato com a plataforma VTEX e participação em times ágeis, utilizando Scrum e Kanban.
