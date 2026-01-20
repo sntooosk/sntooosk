@@ -1,7 +1,5 @@
 # **Juliano Cassimiro**
 
-QA | Test Analyst | Automation | Software Quality
-
 ## **Stack**
 
 <div>
@@ -10,13 +8,7 @@ QA | Test Analyst | Automation | Software Quality
 
 ## **Skills**
 
-* Testes manuais
-* Automação web
-* Testes de API
-* BDD (Gherkin)
-* Observabilidade
-* Criação de cenários e suítes
-* Cultura de qualidade
+Atuando no projeto Electrolux LATAM. Atuação em testes manuais e automatizados, com apoio na escrita, execução e manutenção de cenários de teste utilizando Gherkin, além de testes funcionais tradicionais. Responsável pelo registro de evidências, identificação e reporte de não conformidades, acompanhamento de bugs e organização da documentação de testes. Contato com a plataforma VTEX e participação em times ágeis utilizando Scrum e Kanban.
 
 ## **GitHub**
 
