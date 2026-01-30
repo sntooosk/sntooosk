@@ -2,23 +2,13 @@
 
 🎯 **QA Apprentice | Test Analyst | Automation | Software Quality**  
 
----
-
 ## 🧪 Sobre mim
 
 Atualmente atuo como **QA Apprentice** no projeto **Electrolux LATAM**, realizando testes manuais e automatizados para garantir a qualidade das aplicações. Tenho experiência com escrita e manutenção de cenários de teste em **Gherkin (BDD)**, testes funcionais tradicionais, documentação de evidências e acompanhamento de bugs.
 
 Participo ativamente de times ágeis, utilizando **Scrum** e **Kanban**, com contato direto com a plataforma **VTEX** e colaboração constante com desenvolvedores e stakeholders.
 
----
-
 ## 🛠️ Stack & Ferramentas
-
-<div>
-  <img src="https://skillicons.dev/icons?i=cypress,js,ts,html,postman,gherkin,grafana,github" height="40" />
-</div>
-
-<br/>
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -28,8 +18,6 @@ Participo ativamente de times ágeis, utilizando **Scrum** e **Kanban**, com con
 ![Gherkin](https://img.shields.io/badge/Gherkin-BDD-5C9E31?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
 
 ## 🧠 Conhecimentos Técnicos
 
@@ -42,22 +30,16 @@ Participo ativamente de times ágeis, utilizando **Scrum** e **Kanban**, com con
 - Metodologias ágeis (**Scrum** e **Kanban**)
 - Observabilidade e métricas básicas com **Grafana**
 
----
-
 ## 📊 GitHub Stats
 
 <div>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntooosk&layout=compact&theme=transparent" />
 </div>
 
----
-
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/sntooosk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
----
 
 ⭐️ *Se algum repositório te ajudou, considere deixar uma estrela!*
