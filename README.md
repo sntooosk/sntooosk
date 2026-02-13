@@ -1,12 +1,13 @@
-# 👋 Olá, eu sou o Juliano Cassimiro
+# 👋 Juliano Cassimiro
 
-🎯 **QA Apprentice | Test Analyst | Automation | Software Quality**  
+**QA Apprentice | Test Analyst | Automation | Software Quality**  
+
+---
 
 ## 🧪 Sobre mim
+QA Apprentice com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
 
-Atualmente atuo como **QA Apprentice** no projeto **Electrolux LATAM**, realizando testes manuais e automatizados para garantir a qualidade das aplicações. Tenho experiência com escrita e manutenção de cenários de teste em **Gherkin (BDD)**, testes funcionais tradicionais, documentação de evidências e acompanhamento de bugs.
-
-Participo ativamente de times ágeis, utilizando **Scrum** e **Kanban**, com contato direto com a plataforma **VTEX** e colaboração constante com desenvolvedores e stakeholders.
+---
 
 ## 🛠️ Stack & Ferramentas
 
@@ -19,27 +20,26 @@ Participo ativamente de times ágeis, utilizando **Scrum** e **Kanban**, com con
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-## 🧠 Conhecimentos Técnicos
+---
 
-- Testes manuais e automatizados (E2E e API)
-- Escrita de cenários BDD com **Gherkin**
-- Automação com **Cypress**
-- Testes funcionais e regressivos
-- Registro de evidências e documentação de testes
-- Identificação, reporte e acompanhamento de bugs
-- Metodologias ágeis (**Scrum** e **Kanban**)
-- Observabilidade e métricas básicas com **Grafana**
+## 🧠 Conhecimentos
+- Testes manuais e automatizados (E2E/API)  
+- Escrita de cenários **BDD**  
+- Automação com **Cypress**  
+- Testes funcionais e regressivos  
+- Registro de evidências, documentação e bugs  
+- Metodologias ágeis (**Scrum/Kanban**)  
+- Observabilidade e métricas (**Grafana**)  
+
+---
 
 ## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntooosk&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sntooosk&show_icons=true&theme=transparent)
 
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sntooosk&layout=compact&theme=transparent" />
-</div>
+---
 
 ## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Cassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntooosk/)
 
-<a href="https://www.linkedin.com/in/sntooosk/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Juliano%20Cassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-⭐️ *Se algum repositório te ajudou, considere deixar uma estrela!*
+⭐️ *Se algum repositório te ajudou, deixe uma estrela!*  
