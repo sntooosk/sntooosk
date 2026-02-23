@@ -2,12 +2,8 @@
 
 **QA Apprentice | Test Analyst | Automation | Software Quality**  
 
----
-
 ## 🧪 Sobre mim
 QA Apprentice com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
-
----
 
 ## 🛠️ Stack & Ferramentas
 
@@ -20,8 +16,6 @@ QA Apprentice com experiência em testes manuais e automatizados, escrita de cen
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
-
 ## 🧠 Conhecimentos
 - Testes manuais e automatizados (E2E/API)  
 - Escrita de cenários **BDD**  
@@ -30,14 +24,6 @@ QA Apprentice com experiência em testes manuais e automatizados, escrita de cen
 - Registro de evidências, documentação e bugs  
 - Metodologias ágeis (**Scrum/Kanban**)  
 - Observabilidade e métricas (**Grafana**)  
-
----
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntooosk&layout=compact&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sntooosk&show_icons=true&theme=transparent)
-
----
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Cassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntooosk/)
