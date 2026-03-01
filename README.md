@@ -1,9 +1,9 @@
 # 👋 Juliano Cassimiro
 
-**QA Apprentice | Test Analyst | Automation | Software Quality**  
+**QA Junior | Test Analyst | Automation | Software Quality**  
 
 ## 🧪 Sobre mim
-QA Apprentice com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
+QA Junior com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
 
 ## 🛠️ Stack & Ferramentas
 
