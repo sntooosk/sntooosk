@@ -1,9 +1,7 @@
 # 👋 Juliano Cassimiro
 
-**QA Junior | Test Analyst | Automation | Software Quality**  
-
 ## 🧪 Sobre mim
-QA Junior com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
+QA Jr com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
 
 ## 🛠️ Stack & Ferramentas
 
@@ -24,8 +22,3 @@ QA Junior com experiência em testes manuais e automatizados, escrita de cenári
 - Registro de evidências, documentação e bugs  
 - Metodologias ágeis (**Scrum/Kanban**)  
 - Observabilidade e métricas (**Grafana**)  
-
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliano%20Cassimiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sntooosk/)
-
-⭐️ *Se algum repositório te ajudou, deixe uma estrela!*  
