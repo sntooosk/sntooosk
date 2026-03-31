@@ -1,7 +1,7 @@
-# 👋 Juliano Cassimiro
+# 👋 Juliano Cassimiro Dos Santos
 
 ## 🧪 Sobre mim
-QA Jr com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
+Analista de Qual. Funcional jr com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
 
 ## 🛠️ Stack & Ferramentas
 
@@ -13,12 +13,3 @@ QA Jr com experiência em testes manuais e automatizados, escrita de cenários *
 ![Gherkin](https://img.shields.io/badge/Gherkin-BDD-5C9E31?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-## 🧠 Conhecimentos
-- Testes manuais e automatizados (E2E/API)  
-- Escrita de cenários **BDD**  
-- Automação com **Cypress**  
-- Testes funcionais e regressivos  
-- Registro de evidências, documentação e bugs  
-- Metodologias ágeis (**Scrum/Kanban**)  
-- Observabilidade e métricas (**Grafana**)  
