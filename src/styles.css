@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; background: #070a0f; font-family: Inter, system-ui, sans-serif; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; color: rgba(245, 248, 255, .92); background: #070a0f; overflow-x: hidden; }
+body::selection { background: rgba(55, 213, 255, .32); }
+.glass { border: 1px solid rgba(255,255,255,.1); background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.03)); backdrop-filter: blur(18px); }
+.grid-mask { background-image: linear-gradient(rgba(255,255,255,.045) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.045) 1px, transparent 1px); background-size: 54px 54px; mask-image: radial-gradient(circle at center, black, transparent 75%); }
+.text-gradient { background: linear-gradient(135deg, #fff 10%, #b8d7ff 45%, #37d5ff 90%); -webkit-background-clip: text; background-clip: text; color: transparent; }

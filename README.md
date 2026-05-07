@@ -1,15 +1,68 @@
-# 👋 Juliano Cassimiro Dos Santos
+# QA Automation Engineer Portfolio
 
-## 🧪 Sobre mim
-Analista de Qual. Funcional jr com experiência em testes manuais e automatizados, escrita de cenários **BDD (Gherkin)**, testes funcionais, documentação de evidências e acompanhamento de bugs. Atuo em times ágeis (**Scrum/Kanban**), integrando **VTEX**, desenvolvedores e stakeholders.
+Portfólio premium moderno para um **QA Automation Engineer Junior** focado em automação de testes web/mobile, Cypress, WebdriverIO, Appium, emuladores Android, API Testing e QA para e-commerce VTEX.
 
-## 🛠️ Stack & Ferramentas
+## Stack
 
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gherkin](https://img.shields.io/badge/Gherkin-BDD-5C9E31?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- React + Vite
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- GitHub API
+- GitHub Pages
+
+## Funcionalidades
+
+- Dark mode premium com glassmorphism, glow, spotlight seguindo o mouse e gradients animados.
+- Seções de Hero, About, Tech Stack, GitHub API, Featured Projects, Experience, QA Dashboard, Contact e Footer.
+- Integração automática com `https://api.github.com/users/USERNAME/repos`.
+- Skeleton loading, tratamento de erro e filtros por tecnologia QA.
+- Responsivo para mobile, tablet, desktop e ultra-wide.
+- Workflow de deploy automático para GitHub Pages.
+
+## Configuração local
+
+```bash
+npm install
+cp .env.example .env
+npm run dev
+```
+
+Configure seu usuário do GitHub:
+
+```env
+VITE_GITHUB_USERNAME=seu-usuario
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Deploy GitHub Pages
+
+O deploy automático está configurado em `.github/workflows/deploy.yml` e roda ao fazer push na branch `main`.
+
+Também existe o script manual:
+
+```bash
+npm run deploy
+```
+
+## Estrutura
+
+```text
+src/
+  components/
+  sections/
+  hooks/
+  services/
+  animations/
+  utils/
+  assets/
+```
+
+## Frase
+
+> Quality is engineered, not inspected.
